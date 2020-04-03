@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         MyUI UI=new MyUI();
-        UI.setBounds(0,0,400,500);
+        UI.setBounds(0,0,1280,720);
         UI.setVisible(true);
         UI.setLocationRelativeTo(null);
     }
